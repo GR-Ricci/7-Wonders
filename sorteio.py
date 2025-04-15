@@ -28,7 +28,7 @@ def sorteio(selecionados,jogadores):
             listafinal.extend(v['mapas'])           #em todososmapas e joga para listafinal
 
     slistafinal = sample(listafinal, len(jogadores)) ##Fora do loop para n repetir numeros
-    navio = sample(range(1, 11), len(jogadores))
+    navio = sample(range(1, 8), len(jogadores))
     menusorteio()
 
     if not '4' in selecionados:
