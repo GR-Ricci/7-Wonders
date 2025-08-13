@@ -8,7 +8,6 @@ A Python script to **randomly select maps and ships** for the **7 Wonders boardg
   <img src="elementos/7wonders-gif3.gif" width="500">
 </p>
 
--
 
 ## 📦 Requirements
 - Python 3.10 or higher  
@@ -19,3 +18,18 @@ A Python script to **randomly select maps and ships** for the **7 Wonders boardg
 pip install colorama
 # or, to ensure correct pip is used:
 python -m pip install colorama
+
+🚀 How to Run
+Download the project
+
+bash
+Copiar
+Editar
+git clone https://github.com/SEU-USUARIO/7-wonders-randomizer.git
+cd 7-wonders-randomizer
+Run the script
+
+bash
+Copiar
+Editar
+python principal.py
