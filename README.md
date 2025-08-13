@@ -3,9 +3,9 @@
 A Python script to **randomly select maps and ships** for the **7 Wonders boardgame**, including the base game and expansions.
 ------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-  <img src="elementos/7wonders-gif1.gif" width="500">
-  <img src="elementos/7wonders-gif2.gif" width="500">
-  <img src="elementos/7wonders-gif3.gif" width="500">
+  <img src="elementos/7wonders-gif1.gif" width="400">
+  <img src="elementos/7wonders-gif2.gif" width="400">
+  <img src="elementos/7wonders-gif3.gif" width="400">
 </p>
 
 ##
@@ -13,7 +13,7 @@ A Python script to **randomly select maps and ships** for the **7 Wonders boardg
 - Python 3.10 or higher  
 - [colorama](https://pypi.org/project/colorama/) library  
 
-## 🚀 How to Run
+## 🎮 How to Run
 ```bash
 ---------- Colorama Installation ----------
 # NOTE: You can run these commands either in your system terminal
