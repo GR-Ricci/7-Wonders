@@ -27,7 +27,7 @@ def sorteio(selecionados,jogadores):
         if k in selecionados: #se tiver a chave no selecionados ele pega o valor dessa chave
             listafinal.extend(v['mapas'])           #em todososmapas e joga para listafinal
 
-    slistafinal = sample(listafinal, len(jogadores)) ##Fora do loop para n repetir numeros
+    listafinal = sample(listafinal, len(jogadores)) ##Fora do loop para n repetir numeros
     navio = sample(range(1, 8), len(jogadores))
     menusorteio()
 
