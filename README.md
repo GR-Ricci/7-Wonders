@@ -3,9 +3,9 @@
 A Python script to **randomly select maps and ships** for the **7 Wonders boardgame**, including the base game and expansions.
 ------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-  <img src="elementos/7wonders-gif1.gif" width="450">
-  <img src="elementos/7wonders-gif2.gif" width="450">
-  <img src="elementos/7wonders-gif3.gif" width="450">
+  <img src="elementos/7wonders-gif1.gif" width="430">
+  <img src="elementos/7wonders-gif2.gif" width="430">
+  <img src="elementos/7wonders-gif3.gif" width="430">
 </p>
 
 ##
