@@ -20,11 +20,13 @@ pip install colorama
 python -m pip install colorama
 ```
 
-🚀 How to Run
-Download the project
-
+2. **Download Game**  
+ ```bash
 git clone https://github.com/SEU-USUARIO/7-wonders-randomizer.git
 cd 7-wonders-randomizer
-
+ ```
+3. **Run the Game**
+```bash
 Run the script
 python principal.py
+ ```
