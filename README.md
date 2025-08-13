@@ -8,7 +8,7 @@ A Python script to **randomly select maps and ships** for the **7 Wonders boardg
   <img src="elementos/7wonders-gif3.gif" width="500">
 </p>
 
-
+##
 ## 📦 Requirements
 - Python 3.10 or higher  
 - [colorama](https://pypi.org/project/colorama/) library  
