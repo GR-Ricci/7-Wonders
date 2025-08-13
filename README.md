@@ -1,6 +1,6 @@
 # 🎲 7 Wonders Map & Ship Randomizer
 
-A Python script to **randomly select maps and ships** for the **7 Wonders boardgame**,
+A Python script to **randomly select maps and ships** for the **7 Wonders boardgame**
 including the base game and expansions.
 ------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
