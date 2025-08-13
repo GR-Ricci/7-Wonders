@@ -13,7 +13,7 @@ A Python script to **randomly select maps and ships** for the **7 Wonders boardg
 - Python 3.10 or higher  
 - [colorama](https://pypi.org/project/colorama/) library  
 
-## 🎮 How to Run
+## 🚀 How to Run
 ```bash
 ---------- Colorama Installation ----------
 # NOTE: You can run these commands either in your system terminal
